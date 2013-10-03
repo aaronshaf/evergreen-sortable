@@ -1,3 +1,5 @@
+Based on [bgrins/nativesortable](https://raw.github.com/bgrins/nativesortable/)
+
 ## See also
 
 * [W3C Spec for Drag and Drop](http://www.w3.org/TR/html5/editing.html#dnd)
